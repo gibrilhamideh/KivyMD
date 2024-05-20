@@ -60,7 +60,7 @@ Command [above](#installation) will install latest release version of KivyMD fro
 [PyPI](https://pypi.org/project/kivymd).
 
 If you want to install development version from 
-[master](https://github.com/kivymd/KivyMD/tree/master/)
+[master](https://github.com/gibrilhamideh/KivyMD/tree/master/)
 branch, you should specify link to zip archive:
 
 ```bash
