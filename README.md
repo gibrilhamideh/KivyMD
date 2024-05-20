@@ -64,7 +64,7 @@ If you want to install development version from
 branch, you should specify link to zip archive:
 
 ```bash
-pip install https://github.com/kivymd/KivyMD/archive/master.zip
+pip install https://github.com/gibrilhamideh/KivyMD/archive/master.zip
 ```
 
 **_Tip_**: Replace `master.zip` with `<commit hash>.zip` (eg `51b8ef0.zip`) to
