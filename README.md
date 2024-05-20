@@ -73,7 +73,7 @@ download KivyMD from specific commit.
 Also you can install manually from sources. Just clone the project and run pip:
 
 ```bash
-git clone https://github.com/kivymd/KivyMD.git --depth 1
+git clone https://github.com/gibrilhamideh/KivyMD.git --depth 1
 cd KivyMD
 pip install .
 ```
@@ -87,7 +87,7 @@ to save time. If you need full commit history, then remove `--depth 1`.
 ```ini
 requirements = python3,
     kivy,
-    https://github.com/kivymd/KivyMD/archive/master.zip,
+    https://github.com/gibrilhamideh/KivyMD/archive/master.zip,
     materialyoucolor,
     exceptiongroup,
     asyncgui,
