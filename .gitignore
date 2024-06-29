@@ -49,6 +49,9 @@ pip-delete-this-directory.txt
 !/.idea/runConfigurations
 
 # Environments
+main.py
+src
+kivymd_venv
 venv
 .venv
 env
